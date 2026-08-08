@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+litellm
+pypdf
+streamlit
+pyngrok
