@@ -38,5 +38,5 @@ Set your API keys as environment variables / Streamlit secrets:
 streamlit run app.py
 ```
 
-## Project Status
-Part of an ongoing AI Agents portfolio — built as part of a broader CrewAI/LangGraph multi-agent project series.
+## Author
+**Waleed ahmad** — Data Science  student, building agentic AI systems as part of a hands-on learning journey.
